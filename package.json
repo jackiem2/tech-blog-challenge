@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jackiem2/tech-blog-challenge/issues"
   },
-  "homepage": "https://github.com/jackiem2/tech-blog-challenge#readme"
+  "homepage": "https://github.com/jackiem2/tech-blog-challenge#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
 }
